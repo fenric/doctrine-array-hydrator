@@ -1,8 +1,8 @@
 {
-  "name": "pmill/doctrine-array-hydrator",
-  "description": " An array to entity hydrator for Doctrine 2 entities ",
+  "name": "fenric/doctrine-array-hydrator",
+  "description": " An array to entity hydrator for Doctrine 2 entities (fork)",
   "keywords": ["php", "doctrine", "hydrator", "array"],
-  "homepage": "https://github.com/pmill/doctrine-array-hydrator",
+  "homepage": "https://github.com/fenric/doctrine-array-hydrator",
   "license": "MIT",
   "authors": [
     {
